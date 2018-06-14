@@ -1,6 +1,7 @@
 # TabulationThesis
 Code base for our thesis.
 
+
 Collaborators:
 
 Marcus Flyvholm Haagh, 201303619
